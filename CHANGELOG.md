@@ -1,5 +1,15 @@
 # ChangeLog
 
+## Next
+
+### New Features
+
+* Added support for `v8` of [go-redis/redis](https://github.com/go-redis/redis)
+  in the new [v3/integrations/nrredis-v8](https://godoc.org/github.com/newrelic/go-agent/v3/integrations/nrredis-v8)
+  package.
+  * [Documentation](https://godoc.org/github.com/newrelic/go-agent/v3/integrations/nrredis-v8)
+  * [Example](v3/integrations/nrredis-v8/example/main.go)
+
 ## 3.9.0
 
 ### Changes
